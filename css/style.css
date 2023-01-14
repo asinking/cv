@@ -1,0 +1,25 @@
+body
+{
+    background-color:#F7F5EB;
+}
+hr
+{
+    border-style: dotted none none;
+    width: 3%;
+    border-color: rgb(219, 215, 215);
+    border-width: 5px;
+}
+img{
+    height:150px;
+    width: 130px;
+    border-radius: 50%;
+   
+    
+}
+h1{
+    color: red;
+}
+h3{
+    color: #66BFBF;
+    text-align: left;
+}
